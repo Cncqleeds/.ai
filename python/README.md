@@ -2,5 +2,5 @@
 
 [0 helloworld](helloworld.py)
 
-[1 turtle Demo](./turtle_demo/)
+[1 turtle Demo](./turtle_demo/README.md)
 
