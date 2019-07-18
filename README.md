@@ -7,3 +7,27 @@
 * 目录
 
   [python](./python/README.md)
+  
+  [c](./c/README.md)
+  
+  [js](./js/README.md)
+  
+  [math](./math/README.md)
+  
+  [markdown](./markdown/README.md)
+  
+  [linux](./linux/README.md)
+  
+  [git](./git/README.md)
+  
+  [data](./data/README.md)
+  
+  [datasets](./datasets/README.md)
+  
+  [book paper](./book_paper/README.md)
+  
+  [vim](./vim/README.md)
+  
+  
+  
+  
