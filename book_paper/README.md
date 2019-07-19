@@ -2,5 +2,5 @@
 
 ----
 
-1 [tensorflow 教程](TensorFlow-Tutorials/README.md)
+1 [tensorflow 教程](https://github.com/Cncqleeds/TensorFlow-Tutorials)
 
