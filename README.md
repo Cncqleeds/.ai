@@ -28,6 +28,10 @@
   
   [vim](./vim/README.md)
   
+  [projects](projects/README.md)
+  
+  
+  
   
   
   
