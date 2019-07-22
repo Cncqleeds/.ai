@@ -6,4 +6,5 @@
 
 ---
 
-* ！[git 使用环境说明] (../data/imgs/github使用.png)
+* ！[git 使用环境说明] (../resources/imgs/github使用.png)
+
